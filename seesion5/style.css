@@ -1,0 +1,88 @@
+body {
+    background-color: peachpuff;
+    font-family: "Helvetica", sans-serif;
+  }
+  h1 {
+    color: grey;
+    font-family: "Times New Roman", serif;
+  }
+  h2 {
+    font-family: "Times New Roman", serif;
+  }
+  h3 {
+    font-style: italic;
+  }
+  a {
+    color: slateblue;
+  }
+  table,th,td{
+    border: 2px solid honeydew ;
+  }
+  tr{
+    background-color: palegoldenrod;
+  }
+  th, td{
+    vertical-align: top;
+    padding: 5px;
+    text-align: left;
+  }
+  th{
+    color: purple;
+  }
+.koushari{
+  color:azure;
+}
+.ta3mia{
+  color:azure;
+}
+.food{
+  color: blueviolet;
+}
+.music{
+  color: red;
+}
+.Pharaonic monuments{
+  color: green;
+}
+.Great Sphinx of Giza{
+  color: gold;}
+  
+.valley of the Kings{
+  color: yellowgreen;
+}
+nav ul {
+  background-color: sandybrown;
+  border-style: solid;
+  border-color: seashell;
+  border-width: 2px;
+  padding: 10px;
+  border-radius:10px ;
+}
+nav ul li {
+  list-style-type: none;
+    display: inline;
+    margin-right: 10px;
+    margin-left: 10px;
+    color: PapayaWhip;
+}
+nav ul li a {
+  text-decoration: none;
+  color:olive
+}
+img {
+  border-radius: 30px;
+}
+.h55{
+  padding-bottom: 20px;
+}
+.img55{
+  padding-top: 15px;
+}
+.img66{
+  padding-top: 15px;
+}
+tm{
+  
+    padding-bottom: 35px;
+  
+}
